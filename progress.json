@@ -28,5 +28,10 @@
     "name": "Nanoo Kaomoji",
     "url": "https://github.com/nanoolabs/kaomoji",
     "percent": 85
+  },
+  "css": {
+    "name": "Nanoo CSS",
+    "url": "https://github.com/nanoolabs/css",
+    "percent": 100
   }
 }
