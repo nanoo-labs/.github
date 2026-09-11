@@ -12,7 +12,7 @@
   "cdn": {
     "name": "Nanoo CDN",
     "url": "https://cdn.nanoolabs.dev",
-    "percent": 72
+    "percent": 85
   },
   "docs": {
     "name": "Nanoo Docs",
