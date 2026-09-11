@@ -14,7 +14,7 @@
 | :--- | :--- | :--- |
 | [**Nanoo Stack**](https://stack.nanoolabs.dev) | `12%` | `Development` |
 | [**Nanoo Labs**](https://nanoolabs.dev) | `27%` | `Development` |
-| [**Nanoo CDN**](https://cdn.nanoolabs.dev) | `72%` | `Experimental` |
+| [**Nanoo CDN**](https://cdn.nanoolabs.dev) | `85%` | `Polishing` |
 | [**Nanoo Docs**](https://docs.nanoolabs.dev) | `26%` | `Development` |
 | [**Nanoo Webrings**](https://webrings.nanoolabs.dev) | `90%` | `Polishing` |
 | [**Nanoo Kaomoji**](https://github.com/nanoolabs/kaomoji) | `85%` | `Polishing` |
